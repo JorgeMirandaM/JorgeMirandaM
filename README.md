@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **differents projects**
 
-- 👨‍💻 All of my projects are available at [https://portafoliojorgemm.netlify.app/](https://portafoliojorgemm.netlify.app/)
+
 
 - 📫 How to reach me **jorge100099@hotmail.com**
 
-- 📄 Know about my experiences [https://portafoliojorgemm.netlify.app/assets/docs/CV.pdf](https://portafoliojorgemm.netlify.app/assets/docs/CV.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
