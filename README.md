@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Federico Miranda Morones</h1>
-<h3 align="center">A passionate frontend developer from Mexico who is looking for enhance his programming skills and learning new technologies.</h3>
+<h3 align="center">A passionate fullstack developer from Mexico who is looking for enhance his programming skills and learning new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemirandam&label=Profile%20views&color=0e75b6&style=flat" alt="jorgemirandam" /> </p>
 
